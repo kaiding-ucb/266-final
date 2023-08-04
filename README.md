@@ -7,9 +7,6 @@
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
     - [Repo files](#repo-files)<br>
-- [Running Project](#running-project)<br>
-    - [Requirements](#requirements)<br>
-    - [Execution](#execution)<br>
 ----
 
 ### Description
@@ -28,35 +25,3 @@ This project is the final project for UC Berkeley 266 Natural Language Process. 
 - Model Performance: Synonym replacement with p = 0.3 and n = 9 achieved best performance of 35.60 EM and 51.03 F1 score compared with baseline of 32.98 EM and 47.66 F1
 
 ----
-
-### Running Project
-
-#### Requirements
-
-This project requires **Python 3.11** and the following Python libraries installed:
-
-- [Python 3.11.3](https://www.python.org/downloads)                          (Coding Language)
-- [NumPy](http://www.numpy.org/)                                            (For Scientific Computing)
-- [Pandas](http://pandas.pydata.org)                                        (For Data Analysis)
-- [matplotlib](http://matplotlib.org/)                                      (For Visualization)   
-- [seaborn](https://seaborn.pydata.org/installing.html)                     (For Visualization)
-- [scikit-learn](http://scikit-learn.org/stable/)                           (ML Library for Python)
-- [tensorflow](http://tensorflow.org/install/)                              (Deep Learning Library)
-
-#### Execution
-
-In a terminal or command window, navigate to the top-level project directory `Forest_Cover-Type` (that contains this README) and run one of the following commands:
-
-```bash
-ipython notebook Phil_Kai_EDAv5_added_comments.ipynb
-```  
-or
-```bash
-jupyter notebook Phil_Kai_EDAv5_added_comments.ipynb
-```
-or if you have 'Jupyter Lab' installed
-```bash
-jupyter lab
-```
-
------
