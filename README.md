@@ -12,7 +12,7 @@
 ### Description
 
 #### About the project
-This project is the final project for UC Berkeley 266 Natural Language Process. We used 3 in-domain datatsets including SQuAD (Wikipedia paragraphs with crowd-sourced questions and answers) , NewsQA (crowd-sourced based on CNN news), and Natural Questions (Google search queries), and evaluated with the 3 out-of-domain datasets include DuoRC (miscellaneous sources), RACE  (English language exams for middle and high school students) and RelationExtraction (miscellaneous). 
+This project is the final project for UC Berkeley 266 Natural Language Processing. We used 3 in-domain datatsets including SQuAD (Wikipedia paragraphs with crowd-sourced questions and answers) , NewsQA (crowd-sourced based on CNN news), and Natural Questions (Google search queries), and evaluated with the 3 out-of-domain datasets include DuoRC (miscellaneous sources), RACE  (English language exams for middle and high school students) and RelationExtraction (miscellaneous). 
 
 #### Repo Files
 - `Robust QA System with Data Augmentation (Kai Ding).pdf`: PDF version of final report
